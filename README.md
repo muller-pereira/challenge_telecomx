@@ -1,6 +1,6 @@
 # 📊 Análise de Evasão de Clientes (Churn) da TelecomX_BR
 
-Este projeto tem como objetivo analisar o comportamento dos clientes de uma empresa de telecomunicações, buscando entender os fatores que influenciam o cancelamento de serviços (Churn). Através de análise estatística, visualização de dados e interpretação de padrões, propomos insights e recomendações para mitigar a evasão de clientes.
+Este projeto faz parte do programa ONE (Oracle Next Education) G8 BR Data Science, parceria entre a Alura e a Oracle, e tem como objetivo analisar o comportamento dos clientes de uma empresa de telecomunicações, buscando entender os fatores que influenciam o cancelamento de serviços (Churn). Através de análise estatística, visualização de dados e interpretação de padrões, propomos insights e recomendações para mitigar a evasão de clientes.
 
 ---
 
@@ -16,7 +16,7 @@ Investigar os principais fatores que contribuem para a evasão de clientes, util
 
 ## 🧮 Tecnologias Utilizadas
 
-- Python 3.9+
+- Python 3.12.7
 - Jupyter Notebook
 - Bibliotecas: 
   - `pandas`, `numpy` para tratamento de dados
